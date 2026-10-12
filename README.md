@@ -3,7 +3,7 @@
 <p align="center">Live wallpaper for the Mac.<br>The aerial films macOS already ships, the ones behind the lock screen, playing full screen on your desktop.</p>
 
 <p align="center">
-  <img src="docs/films.webp" width="800" alt="Clouds over Hawaii, Patagonia, Hong Kong and a Palau reef, playing one after another">
+  <img src="docs/promo.webp" width="800" alt="The Skywall film: the built-in aerials playing behind your windows, picked from the app and the menu bar">
 </p>
 
 <p align="center">
