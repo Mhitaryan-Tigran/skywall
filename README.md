@@ -11,7 +11,7 @@ Live wallpaper for the Mac. Skywall plays the aerial films macOS already ships â
 
 - Plays a film as the desktop wallpaper on every display, in place of a still image.
 - Lists the whole built-in collection by category and downloads only the films you pick. They go where the system keeps its own copies, so nothing is stored twice.
-- Pauses when the Mac is locked, asleep, running hot or in Low Power Mode, and halves the frame rate on battery.
+- Pauses when the Mac is locked, asleep, running hot or in Low Power Mode; a setting keeps it at half speed in Low Power Mode instead.
 - Stays in the menu bar with no dock icon. Quit it and the desktop goes back to the wallpaper you had.
 
 <img alt="Skywall settings" src="docs/settings.webp" width="460">
